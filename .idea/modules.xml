@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddressBookSpringBoot.iml" filepath="$PROJECT_DIR$/.idea/modules/AddressBookSpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddressBookSpringBoot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AddressBookSpringBoot_main.iml" group="AddressBookSpringBoot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddressBookSpringBoot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AddressBookSpringBoot_test.iml" group="AddressBookSpringBoot" />
+    </modules>
+  </component>
+</project>
